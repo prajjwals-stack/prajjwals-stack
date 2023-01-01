@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as a Software Engineer Intern at Quantrium.ai
 - 🌱 I’m currently working on Vuejs in Frontend and FastAPI in Backend
 - 🤔 I’m familiary with various technologies such as Docker, Aws EC2, GCP, NGINX, C++, Flask, Postman, MongoDB and HTML/Css.
-- 💬 Ask me about ...
+- 💬 Ask me about Crypto and Fullstack dev
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nuns don't work on sundays but software engineers do.
 - 📫 How to reach me: [<img align="center" src="https://skillicons.dev/icons?i=instagram" width="30px" alt="Instagram"/> ](https://www.instagram.com/prajjwalsoni/) 
