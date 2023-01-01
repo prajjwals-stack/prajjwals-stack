@@ -23,7 +23,7 @@
 ### Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,c++,py,cpp,js,flask,fastapi,vue,mongodb,html,css,sass,vscode,aws,linux,bash,gcp,nginx,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,cplusplus,py,cpp,js,flask,fastapi,vue,mongodb,html,css,sass,vscode,aws,linux,bash,gcp,nginx,postman,figma" />
 <br /> 
 </div>
 
