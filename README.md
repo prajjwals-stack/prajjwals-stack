@@ -7,7 +7,7 @@
 
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
 
-- 🔭 I’m currently working as a Software Engineer Intern at Quantrium.ai
+- 🔭 I’m currently working as a Software Engineer at Quantrium.ai
 - 🌱 I’m currently working on Vuejs in Frontend and FastAPI in Backend
 - 🤔 I’m familiary with various technologies such as Docker, Aws EC2, GCP, NGINX, C++, Flask, Postman, MongoDB and HTML/Css.
 - 💬 Ask me about Crypto and Fullstack dev
