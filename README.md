@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=prajjwals-stack)
 <br />
 
-[Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
+[Resume](https://drive.google.com/file/d/17lvEL9FLTtufI9hL6hcwQA44jloM9Gag/view?usp=drive_link)
 
 - 🔭 I’m currently working as a Software Engineer at Quantrium.ai
 - 🌱 I’m currently working on Vuejs in Frontend and FastAPI in Backend
